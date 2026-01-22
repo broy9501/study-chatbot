@@ -1,0 +1,16 @@
+https://huggingface.co/datasets/MuskumPillerum/General-Knowledge/tree/refs%2Fconvert%2Fparquet/default/train
+
+
+get corpus result
+
+check if the score passes threshold
+
+if it doesn't then
+
+use webPage library/api to search the results
+
+then place the page texts into an array of the information found
+
+then split the pages into chunks and encode it and rank it with the cross encoder
+
+then display it and add it to the corpus
