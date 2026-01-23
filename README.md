@@ -4,7 +4,7 @@
 <div align="center">
 
 
-# STUDY-CHATBOT-RAG-INTENT
+# STUDY CHATBOT RAG + INTENT
 
 <em>Empowering Smarter Learning Through AI Conversations</em>
 
@@ -41,3 +41,4 @@ This chatbots that interpret user intents, fetch relevant information from diver
 <div align="left"><a href="#top">⬆ Return</a></div>
 
 ---
+
